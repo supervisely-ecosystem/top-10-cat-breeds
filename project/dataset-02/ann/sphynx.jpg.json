@@ -1,0 +1,19 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 565012,
+            "tagId": 5099,
+            "name": "sphynx",
+            "value": null,
+            "labelerLogin": "admin",
+            "createdAt": "2021-03-05T14:16:03.588Z",
+            "updatedAt": "2021-03-05T14:16:03.588Z"
+        }
+    ],
+    "size": {
+        "height": 159,
+        "width": 240
+    },
+    "objects": []
+}

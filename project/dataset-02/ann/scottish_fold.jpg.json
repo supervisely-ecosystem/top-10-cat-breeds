@@ -1,0 +1,19 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 565011,
+            "tagId": 5098,
+            "name": "scottish fold",
+            "value": null,
+            "labelerLogin": "admin",
+            "createdAt": "2021-03-05T14:15:58.701Z",
+            "updatedAt": "2021-03-05T14:15:58.701Z"
+        }
+    ],
+    "size": {
+        "height": 180,
+        "width": 240
+    },
+    "objects": []
+}

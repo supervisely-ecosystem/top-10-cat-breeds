@@ -1,0 +1,19 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 565009,
+            "tagId": 5096,
+            "name": "persian",
+            "value": null,
+            "labelerLogin": "admin",
+            "createdAt": "2021-03-05T14:15:46.104Z",
+            "updatedAt": "2021-03-05T14:15:46.104Z"
+        }
+    ],
+    "size": {
+        "height": 159,
+        "width": 240
+    },
+    "objects": []
+}

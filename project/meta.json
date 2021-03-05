@@ -1,0 +1,96 @@
+{
+    "classes": [],
+    "tags": [
+        {
+            "name": "abyssinian",
+            "value_type": "none",
+            "color": "#DE2B46",
+            "id": 5090,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "american",
+            "value_type": "none",
+            "color": "#0E4BF1",
+            "id": 5091,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "british",
+            "value_type": "none",
+            "color": "#B440F7",
+            "id": 5092,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "devon rex",
+            "value_type": "none",
+            "color": "#4820B6",
+            "id": 5093,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "exotic",
+            "value_type": "none",
+            "color": "#C55220",
+            "id": 5094,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "maine coon",
+            "value_type": "none",
+            "color": "#055CB3",
+            "id": 5095,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "persian",
+            "value_type": "none",
+            "color": "#E70BEF",
+            "id": 5096,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "ragdoll",
+            "value_type": "none",
+            "color": "#EA6296",
+            "id": 5097,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "scottish fold",
+            "value_type": "none",
+            "color": "#CC8ADB",
+            "id": 5098,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "sphynx",
+            "value_type": "none",
+            "color": "#8546B9",
+            "id": 5099,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        }
+    ],
+    "projectType": "images"
+}

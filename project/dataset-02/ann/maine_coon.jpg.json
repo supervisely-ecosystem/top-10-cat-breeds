@@ -1,0 +1,19 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 565008,
+            "tagId": 5095,
+            "name": "maine coon",
+            "value": null,
+            "labelerLogin": "admin",
+            "createdAt": "2021-03-05T14:15:39.923Z",
+            "updatedAt": "2021-03-05T14:15:39.923Z"
+        }
+    ],
+    "size": {
+        "height": 159,
+        "width": 240
+    },
+    "objects": []
+}

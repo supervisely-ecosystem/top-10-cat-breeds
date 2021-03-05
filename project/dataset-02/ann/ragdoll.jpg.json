@@ -1,0 +1,19 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 565010,
+            "tagId": 5097,
+            "name": "ragdoll",
+            "value": null,
+            "labelerLogin": "admin",
+            "createdAt": "2021-03-05T14:15:52.798Z",
+            "updatedAt": "2021-03-05T14:15:52.798Z"
+        }
+    ],
+    "size": {
+        "height": 159,
+        "width": 240
+    },
+    "objects": []
+}

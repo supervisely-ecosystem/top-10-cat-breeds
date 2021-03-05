@@ -1,0 +1,19 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 565015,
+            "tagId": 5092,
+            "name": "british",
+            "value": null,
+            "labelerLogin": "admin",
+            "createdAt": "2021-03-05T14:16:27.503Z",
+            "updatedAt": "2021-03-05T14:16:27.503Z"
+        }
+    ],
+    "size": {
+        "height": 159,
+        "width": 240
+    },
+    "objects": []
+}
