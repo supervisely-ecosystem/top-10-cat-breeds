@@ -3,7 +3,9 @@
   "description": "Tag (name of breed) is assigned to every image",
   "type": "project",
   "categories": [
-    "images"
+    "import",
+    "images",
+    "project"
   ],
   "icon": "https://i.imgur.com/36quvNL.jpg",
   "icon_cover": true
