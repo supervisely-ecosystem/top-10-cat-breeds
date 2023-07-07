@@ -1,5 +1,5 @@
 <div align="center" markdown>
-<img src="https://i.imgur.com/UdBujFN.png" width="250"/><br>
+<img src="media/eco.png" width="250"/><br>
 
 # Top 10 Cat Breeds
 
@@ -21,7 +21,7 @@
 Project with 10 images - most popular types of cats of 2016 (one image for every breed). Also project contains 10  tags - names of the breeds. Tags are asiigned to corresponding images.
 
 <p>
-    <img src="https://images.ctfassets.net/440y9b545yd9/1tlOk1PcpT5eWDuTIBvVxQ/d5e6ae6f8577cb52d0ea2c2a336bec27/Top_10_Cat_Breeds_2016_infographic_FINAL__1_.jpg" alt>
+    <img src="media/ov.jpeg" alt>
     <em>Image credit: <a href="https://www.petinsurance.com/healthzone/pet-breeds/cat-breeds/lifestyle-cat-breeds/top-10-cat-breeds-infographic/">link</a></em>
 </p>
 
